@@ -947,10 +947,10 @@ ol {
 	color: #000000;
 }
 
-.noty_button_clear a {
+.noty_button_clear {
 	color: #000000;
 }
 
-.noty_button_close a {
+.noty_button_close a:visited {
 	color: #000000;
 }
