@@ -943,7 +943,7 @@ ol {
 	border: none;
 }
 
-.noty_button_view a {
+.noty_button_view {
 	color: #000000;
 }
 
@@ -951,6 +951,6 @@ ol {
 	color: #000000;
 }
 
-.noty_button_close a:visited {
+.noty_button_close {
 	color: #000000;
 }
