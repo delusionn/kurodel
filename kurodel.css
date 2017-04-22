@@ -943,6 +943,14 @@ ol {
 	border: none;
 }
 
-#noty-button_view {
+.noty-button_view {
+	color: #000000;
+}
+
+.noty-button_clear {
+	color: #000000;
+}
+
+.noty-button_close {
 	color: #000000;
 }
