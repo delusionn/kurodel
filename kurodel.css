@@ -942,3 +942,7 @@ ol {
 #forum_search_cat_list, #forum_search_cat_list tr {
 	border: none;
 }
+
+#noty-notification {
+	color: #000000;
+}
