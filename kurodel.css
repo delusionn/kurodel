@@ -943,14 +943,14 @@ ol {
 	border: none;
 }
 
-.noty-button_view a:visited {
+.noty_button_view a {
 	color: #000000;
 }
 
-.noty-button_clear a:visited {
+.noty_button_clear a {
 	color: #000000;
 }
 
-.noty-button_close a:visited {
+.noty_button_close a {
 	color: #000000;
 }
